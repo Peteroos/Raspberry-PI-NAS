@@ -24,7 +24,15 @@ Well, then you have to take a look at my NAS porject that is base on raspberry p
   + Putty/VNC
 
 
-1. Set up your Raspberry Pi
+<!-- Set up your Raspberry Pi -->
+## Set up your Raspberry Pi
+
+
+## Download OpenMediaVault in your Raspberry Pi 
+
+
+## Set up your OpenMediaVault in your personal device
+
 
 
 
