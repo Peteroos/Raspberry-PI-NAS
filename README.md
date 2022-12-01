@@ -27,6 +27,9 @@ Well, then you have to take a look at my NAS porject that is base on raspberry p
 <!-- Set up your Raspberry Pi -->
 ## Set up your Raspberry Pi
 
+Go to 
+**ok**
+
 
 ## Download OpenMediaVault in your Raspberry Pi 
 
